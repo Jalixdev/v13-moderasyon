@@ -1,0 +1,36 @@
+{
+  "name": "v13-Mod-Bot",
+  "description": "Ekip&Public sunucuları için geliştirilmiş Moderasyon botu.",
+  "version": "1.0.0",
+  "main": "Main.js",
+  "scripts": {
+    "start": "node Main.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/voice": "^0.11.0",
+    "ascii-table": "^0.0.9",
+    "canvas": "^2.10.2",
+    "discord-modals": "^1.3.9",
+    "discord.js": "^13.7.0",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "moment-timezone": "^0.5.37",
+    "mongoose": "^6.3.3",
+    "ms": "^2.1.3",
+    "node-fetch": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Niwren.git"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/Niwren/V13-Moderasyon/issues"
+  },
+  "homepage": "https://github.com/Niwren/V13-Moderasyon#readme"
+}
